@@ -1,1 +1,1 @@
-### [Show me what it looks like!](https://github.com/Darkzarich/light-dark-mode)
+### [Show me what it looks like!](https://darkzarich.github.io/light-dark-mode/)
