@@ -1,3 +1,4 @@
+npm run build
 git branch --delete --force gh-pages
 git checkout --orphan gh-pages
 git add -f dist
